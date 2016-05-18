@@ -1,10 +1,18 @@
 {
   "file-version" : 1,
-  "current" : "grch38_version_1",
+  "current" : "build_37_version_3",
   "targets" : [
     {
-      "name" : "grch38",
-      "url" : "http://bioinformatics.bc.edu/marthlab/download/gkno-resources/human_grch38/grch38_version_1.tar.gz"
+      "name" : "build_37",
+      "url" : "http://bioinformatics.bc.edu/marthlab/download/gkno-resources/homo_sapiens/build_37.tar.gz"
+    },
+    {
+      "name" : "build_37_utah",
+      "url" : "http://marth-award.genetics.utah.edu:8089/build_37.tar.gz"
+    },
+    {
+      "name" : "build_37_version_3",
+      "url" : "http://marth-award.genetics.utah.edu:8089/build_37_version_3.tar.gz"
     }
   ]
 }
