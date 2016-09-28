@@ -1,10 +1,14 @@
 {
-  "file-version" : 1,
-  "current" : "grch37_version_1",
+  "file-version" : 2,
+  "current" : "grch37_version_2",
   "targets" : [
     {
       "name" : "grch37_version_1",
       "url" : "http://marth-award.genetics.utah.edu:8089/grch37_version_1.tar.gz"
+    },
+    {
+      "name" : "grch37_version_2",
+      "url" : "http://marth-award.genetics.utah.edu:8089/grch37_version_2.tar.gz"
     }
   ]
 }
